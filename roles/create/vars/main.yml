@@ -1,0 +1,6 @@
+instance_type: t2.micro
+security_group: ansible_security_group
+image: ami-064a0193585662d74
+keypair: ansible-keypair
+region: us-east-1
+count: 3
